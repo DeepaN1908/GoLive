@@ -1,5 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### MODULES FOR Installation
+install Node JS
+## creation of react application
+npx create-react-app golive
+## installation of Modulues
+npm install --save axios
+npm install -g react-youtube
+npm install -g movie-trailer
+npm install --save react-router-dom
+## installation firebase cloud store
+npm install firebase
+npm install firebase/tools
+## UI componencts
+npm install @materialUI/core
+## API
+IMDB movie api for realtime movie data
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -47,9 +64,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 ### Making a Progressive Web App
 
