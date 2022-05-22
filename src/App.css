@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+ /* background-color: black;*/
+  
+}
+.App{
+  background-color: #111;
+  color: white;
+}
+.App::-webkit-scrollbar{
+  display:none;
+}
