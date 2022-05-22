@@ -1,20 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### MODULES FOR Installation
+## MODULES FOR Installation
 install Node JS
-## creation of react application
+#### creation of react application
 npx create-react-app golive
-## installation of Modulues
+#### installation of Modulues
 npm install --save axios
+
 npm install -g react-youtube
+
 npm install -g movie-trailer
+
 npm install --save react-router-dom
-## installation firebase cloud store
+
+#### installation firebase cloud store
 npm install firebase
 npm install firebase/tools
-## UI componencts
+#### UI componencts
 npm install @materialUI/core
-## API
+#### API
 IMDB movie api for realtime movie data
 
 ## Available Scripts
